@@ -20,10 +20,5 @@ Contributions are welcome! You can:
 - Open issues to suggest new topics or corrections
 - Start discussions to share insights
 - Submit pull requests to add new guides or resources
-
-**Anchor link to website:** [Moon3000 — Spiritual Resource Hub](https://moon3000.com/)
-
----
-
 ## Suggested Topics / Tags
 `astrology`, `crystals`, `chakras`, `numerology`, `dreams`, `spirituality`, `moon3000`, `wellness`
